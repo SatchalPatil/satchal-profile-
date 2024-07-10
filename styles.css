@@ -49,7 +49,7 @@ body, html {
 .personal-info .icon {
     width: 20px;
     height: 20px;
-    vertical-align: middle;
+    vertical-align: bottom;
     margin-right: 5px;
 }
 
@@ -62,7 +62,7 @@ body, html {
 .skills .icon {
     width: 20px;
     height: 20px;
-    vertical-align: text-top;
+    vertical-align: top;
     margin-right: 5px;
 }
 
